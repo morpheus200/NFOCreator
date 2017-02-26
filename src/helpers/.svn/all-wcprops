@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/NFOCreator/src/helpers
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/NFOCreator/src/helpers/Connection.java
+END
+FolderHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/NFOCreator/src/helpers/FolderHandling.java
+END
+IdleTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/NFOCreator/src/helpers/IdleTask.java
+END
+Moviename.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/NFOCreator/src/helpers/Moviename.java
+END
+XMLCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/NFOCreator/src/helpers/XMLCreator.java
+END
+ComboCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/NFOCreator/src/helpers/ComboCellEditor.java
+END
+ComboCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/NFOCreator/src/helpers/ComboCellRenderer.java
+END
+ThreadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/NFOCreator/src/helpers/ThreadTest.java
+END
+NFOTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/NFOCreator/src/helpers/NFOTableModel.java
+END
+Lookups.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/NFOCreator/src/helpers/Lookups.java
+END

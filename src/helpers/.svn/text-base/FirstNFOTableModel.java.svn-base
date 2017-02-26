@@ -1,0 +1,37 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package helpers;
+
+import javax.swing.table.DefaultTableModel;
+
+/**
+ *
+ * @author frank
+ */
+public class NFOTableModel extends DefaultTableModel{
+
+    @Override
+    public Class<?> getColumnClass(int columnIndex)
+    {
+      if (columnIndex == 0)
+      {
+        return Boolean.class;
+      }
+      else
+      {
+        return super.getColumnClass(columnIndex);
+      }
+    }
+
+    @Override
+    public boolean isCellEditable(int row, int col)
+    {
+        if (col == 0 || col == 2) {
+            return true;
+        }
+        return false;
+    }
+}
